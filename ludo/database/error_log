@@ -1,0 +1,223 @@
+[12-Apr-2023 06:56:59 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 06:56:59 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 29
+[12-Apr-2023 06:56:59 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 31
+[12-Apr-2023 07:02:11 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:02:11 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 07:02:11 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44
+[12-Apr-2023 07:06:44 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:06:44 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 07:06:44 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44
+[12-Apr-2023 07:52:55 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:52:55 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 29
+[12-Apr-2023 07:52:55 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 31
+[12-Apr-2023 07:52:58 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:52:58 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 49
+[12-Apr-2023 07:52:58 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 51
+[12-Apr-2023 07:53:00 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:00 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 60
+[12-Apr-2023 07:53:00 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 62
+[12-Apr-2023 07:53:00 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:01 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:05 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:07 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:07 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:07 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:09 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:09 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:10 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:13 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:14 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:14 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:14 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:14 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:15 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:15 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:16 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:16 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:16 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:20 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:20 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:21 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:25 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:26 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:26 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:27 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:27 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:27 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:31 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:31 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:38 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:38 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:38 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:38 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:42 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 07:53:43 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:14:22 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:14:22 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 29
+[12-Apr-2023 08:14:22 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 31
+[12-Apr-2023 08:17:05 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:05 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 29
+[12-Apr-2023 08:17:05 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 31
+[12-Apr-2023 08:17:08 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:08 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 49
+[12-Apr-2023 08:17:08 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 51
+[12-Apr-2023 08:17:09 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:09 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 60
+[12-Apr-2023 08:17:09 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 62
+[12-Apr-2023 08:17:12 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:16 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:16 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:17 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:19 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:20 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:20 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:20 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:17:20 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:45:23 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 08:45:23 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 38
+[12-Apr-2023 08:45:23 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 40
+[12-Apr-2023 09:27:28 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:27:28 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 09:27:28 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44
+[12-Apr-2023 09:27:29 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:27:29 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 53
+[12-Apr-2023 09:27:29 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 55
+[12-Apr-2023 09:35:49 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:35:49 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 38
+[12-Apr-2023 09:35:49 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 40
+[12-Apr-2023 09:47:13 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:18 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:25 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:28 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:35 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:37 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:37 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:37 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:38 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:38 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:38 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:38 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:38 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:39 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:39 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:47:40 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:52 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:55 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:56 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:56 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:56 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:57 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:57 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:48:58 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:06 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:08 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:09 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:09 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:12 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:12 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:13 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:13 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:50 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:50 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:49:50 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:28 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:28 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:51:28 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:53:17 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:53:28 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:53:29 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:53:29 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:54:12 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:54:12 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 09:54:12 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44
+[12-Apr-2023 09:54:38 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:54:38 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 53
+[12-Apr-2023 09:54:38 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 55
+[12-Apr-2023 09:55:40 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:55:41 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:55:41 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:55:41 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:55:42 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 09:56:05 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:56:05 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 29
+[12-Apr-2023 09:56:05 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 31
+[12-Apr-2023 09:57:40 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:57:40 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 09:57:40 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44
+[12-Apr-2023 09:58:09 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 09:58:09 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 53
+[12-Apr-2023 09:58:09 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 55
+[12-Apr-2023 10:08:28 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 10:08:28 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 10:08:28 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44
+[12-Apr-2023 10:08:36 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 10:08:36 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 53
+[12-Apr-2023 10:08:36 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 55
+[12-Apr-2023 10:21:15 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:18 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:20 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:21 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:21 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:21 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:21 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:22 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:22 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:22 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:22 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:23 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:23 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:23 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:23 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:23 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:24 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:24 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:24 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:24 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:25 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:25 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:32 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:32 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:32 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:33 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:34 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:34 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:34 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:34 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:35 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:35 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:54 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:54 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:54 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:54 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:54 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:54 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:55 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:55 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:55 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:56 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:56 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:21:56 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:27 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:29 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:29 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:29 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:30 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:30 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:30 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:30 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:22:31 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:24:15 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:24:16 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:24:17 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:24:17 UTC] PHP Warning:  Undefined variable $sql in /home/parindon/public_html/ludo/database/join_room.php on line 84
+[12-Apr-2023 10:24:46 UTC] PHP Warning:  Undefined variable $db_username in /home/parindon/public_html/ludo/database/join_room.php on line 22
+[12-Apr-2023 10:24:46 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 42
+[12-Apr-2023 10:24:46 UTC] PHP Warning:  Undefined array key "login_name" in /home/parindon/public_html/ludo/database/join_room.php on line 44

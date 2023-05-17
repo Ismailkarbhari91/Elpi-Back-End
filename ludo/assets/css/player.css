@@ -1,0 +1,73 @@
+.p1.player_circle {
+    width: 225px !important;
+    display: flex;
+}
+.p2.player_circle{
+    display: flex;
+}
+
+span.text-light.ms-1.players {
+    padding: 4px;
+    background: gainsboro;
+    color: black !important;
+    opacity: 1 !important;
+}
+
+button.player.player_buttons {
+    padding: 17px 33px;
+    border-radius: 0;
+    margin-top: 12px;
+    margin-left: -10px;
+}
+
+.rounded-circle {
+    z-index: 1;
+}
+.main{
+   filter: brightness( 90% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+}
+
+img.player_dice {
+    padding: 3px 9px 4px 22px;
+    border-radius: 0;
+    margin-left: -14px;
+    background: white;
+    margin-top: 12px;
+}
+
+img.rounded-circle.player1 {
+    border: 8px solid red;
+}
+
+img.rounded-circle.player2 {
+    border: 8px solid #7acc43;
+}
+
+
+img.rounded-circle.player3 {
+    border: 8px solid #02aafe;
+}
+
+img.rounded-circle.player4 {
+    border: 8px solid #edda00;
+}
+
+.navbar{
+        padding-top: 0px !important;
+}
+span.text-light.ms-1.header_header {
+    background: #0a58ca;
+    padding: 11px 10px 7px 10px;
+    border-radius: 0px 0px 15px 16px;
+    width: 68%;
+    text-align: center;
+    box-shadow: #edda01 1px 1px 3px 1px, rgb(0 0 0 / 16%) -1px 17px 39px 5px;
+    color: yellow !important;
+    font-weight: 800;
+}
+
+img.rounded-circle.hamburger {
+    margin-left: -15px;
+    background: black;
+    border-radius: 0 !important;
+}
