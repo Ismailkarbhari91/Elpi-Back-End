@@ -107,32 +107,32 @@ class ProductFlat
     }
 
 
-    public function afterAttributeCreatedUpdateds($attribute)
-    {
-        if (! $attribute->is_user_defined) {
-            return false;
-        }
+    // public function afterAttributeCreatedUpdateds($attribute)
+    // {
+    //     if (! $attribute->is_user_defined) {
+    //         return false;
+    //     }
 
-        if (! $attribute->product_collection) {
-            $this->afterAttributeDeletedNew($attribute->id);
-            return false;
-        }
+    //     if (! $attribute->product_collection) {
+    //         $this->afterAttributeDeletedNew($attribute->id);
+    //         return false;
+    //     }
 
-        if (in_array($attribute->code, $this->metaColumns)) {
-            return;
-        }
+    //     if (in_array($attribute->code, $this->metaColumns)) {
+    //         return;
+    //     }
 
-        if (! Schema::hasColumn('velocity_meta_data', $attribute->code)) {
-            Schema::table('velocity_meta_data', function (Blueprint $table) use($attribute) {
-                $table->{$this->attributeTypeFields[$attribute->type]}($attribute->code)->nullable();
-                $table->string($attribute->code . '_position')->nullable();
+    //     if (! Schema::hasColumn('velocity_meta_data', $attribute->code)) {
+    //         Schema::table('velocity_meta_data', function (Blueprint $table) use($attribute) {
+    //             $table->{$this->attributeTypeFields[$attribute->type]}($attribute->code)->nullable();
+    //             $table->string($attribute->code . '_position')->nullable();
 
-                if ($attribute->type == 'select' || $attribute->type == 'multiselect') {
-                    $table->string($attribute->code . '_label')->nullable();
-                }
-            });
-        }
-    }
+    //             if ($attribute->type == 'select' || $attribute->type == 'multiselect') {
+    //                 $table->string($attribute->code . '_label')->nullable();
+    //             }
+    //         });
+    //     }
+    // }
     /**
      * After the attribute is deleted
      *
@@ -162,21 +162,21 @@ class ProductFlat
     }
 
 
-    public function afterAttributeDeletedNew($attributeId)
-    {
-        $attribute = $this->attributeRepository->find($attributeId);
+    // public function afterAttributeDeletedNew($attributeId)
+    // {
+    //     $attribute = $this->attributeRepository->find($attributeId);
 
-        if (Schema::hasColumn('velocity_meta_data', strtolower($attribute->code))) {
-            Schema::table('velocity_meta_data', function (Blueprint $table) use($attribute) {
-                $table->dropColumn($attribute->code);
-                $table->dropColumn($attribute->code . '_position');
+    //     if (Schema::hasColumn('velocity_meta_data', strtolower($attribute->code))) {
+    //         Schema::table('velocity_meta_data', function (Blueprint $table) use($attribute) {
+    //             $table->dropColumn($attribute->code);
+    //             $table->dropColumn($attribute->code . '_position');
 
-                if ($attribute->type == 'select' || $attribute->type == 'multiselect') {
-                    $table->dropColumn($attribute->code . '_label');
-                }
-            });
-        }
-    }
+    //             if ($attribute->type == 'select' || $attribute->type == 'multiselect') {
+    //                 $table->dropColumn($attribute->code . '_label');
+    //             }
+    //         });
+    //     }
+    // }
 
     /**
      * Creates product flat

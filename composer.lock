@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "426f46bde0ccd7abbe608e8d933f175f",
+    "content-hash": "2e8fe805b60da63ddcf9f33b301f84cc",
     "packages": [
         {
             "name": "astrotomic/laravel-translatable",
@@ -96,6 +96,63 @@
                 }
             ],
             "time": "2023-02-27T10:27:10+00:00"
+        },
+        {
+            "name": "bagisto/bagisto-bulk-upload",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bagisto/bagisto-bulk-upload.git",
+                "reference": "a647be0bea0a615b6d1c19595273fa599a45acc6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bagisto/bagisto-bulk-upload/zipball/a647be0bea0a615b6d1c19595273fa599a45acc6",
+                "reference": "a647be0bea0a615b6d1c19595273fa599a45acc6",
+                "shasum": ""
+            },
+            "require": {
+                "konekt/concord": "^1.2"
+            },
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Webkul\\Bulkupload\\Providers\\BulkUploadServiceProvider"
+                    ],
+                    "aliases": []
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Webkul\\Bulkupload\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Prateek Srivastava",
+                    "email": "prateek.srivastava781@webkul.com",
+                    "homepage": "https://bagisto.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Add products using CSV or XLS in bagisto.",
+            "homepage": "https://github.com/bagisto/bagisto-bulk-upload",
+            "keywords": [
+                "bagisto",
+                "bulk upload",
+                "product upload"
+            ],
+            "support": {
+                "issues": "https://github.com/bagisto/bagisto-bulk-upload/issues",
+                "source": "https://github.com/bagisto/bagisto-bulk-upload/tree/master"
+            },
+            "time": "2023-05-01T23:30:40+00:00"
         },
         {
             "name": "bagisto/legacy-api",

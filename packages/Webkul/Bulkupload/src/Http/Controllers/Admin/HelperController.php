@@ -171,9 +171,9 @@ class HelperController extends Controller
 
         foreach ($types as $key => $productType) {
             if (request()->download_sample == $key.'-csv') {
-                return response()->download(public_path('storage/app/public/downloads/sample-files/bulk'.$key.'productupload.csv'));
+                return response()->download(public_path('storage/downloads/sample-files/bulk'.$key.'productupload.csv'));
             } else if (request()->download_sample == $key.'-xls') {
-                return response()->download(public_path('storage/app/public/downloads/sample-files/bulk'.$key.'productupload.xlsx'));
+                return response()->download(public_path('storage/downloads/sample-files/bulk'.$key.'productupload.xlsx'));
             } else if (empty(request()->download_sample)) {
                 return redirect()->back();
             }

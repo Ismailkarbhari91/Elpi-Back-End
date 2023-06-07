@@ -17,7 +17,7 @@ class ContactDataGrid extends DataGrid
     public function prepareQueryBuilder()
     {
         $queryBuilder = DB::table('contacts')
-                ->addSelect('contacts.id as contact_id', 'name', 'email','phone', 'message_title', 'message_body','message_reply');
+                ->addSelect('contacts.id as contact_id', 'name', 'email','phone', 'message_title', 'message_body','message_reply','created_at');
 
 
         $this->addFilter('contact_id', 'contacts.id');
@@ -79,6 +79,15 @@ class ContactDataGrid extends DataGrid
                 else
                     return $value->message_body;
             }
+        ]);
+
+        $this->addColumn([
+            'index' => 'created_at',
+            'label' => 'Date',
+            'type' => 'date',
+            'searchable' => true,
+            'sortable' => true,
+            'filterable' => true
         ]);
 
         // $this->addColumn([

@@ -51,7 +51,7 @@ class ImportProduct
         request()->validate ([
             'attribute_family'  => 'required',
             'file_path'         => 'required',
-            'image_path'        => 'mimetypes:application/zip|max:10000',
+            'image_path'        => 'mimetypes:application/zip|max:20000',
             'data_flow_profile' => 'required',
         ]);
 

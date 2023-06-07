@@ -19,7 +19,7 @@ class ContactDataGrid extends DataGrid
     {
         $queryBuilder = DB::table('quote')
                 // ->join('countries','quote.country' ,'=', 'countries.code')
-                ->join('product_flat','quote.pid','=','product_flat.id')
+                ->leftjoin('product_flat','quote.pid','=','product_flat.id')
                 ->addSelect('quote.id as quote_id', 'quote.name as name', 'quote.email as email','quote.phone as phone','quote.address as address','quote.quantity as quantity','product_flat.name as productname','quote.quotestatus as status','quote.created_at as date');
 
 

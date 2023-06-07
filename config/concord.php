@@ -41,8 +41,7 @@ return [
         \Webkul\Sitemap\Providers\ModuleServiceProvider::class,
         \RKREZA\Contact\Providers\ModuleServiceProvider::class,
         \Webkul\Quote\Providers\ModuleServiceProvider::class,
-        \Webkul\Bulkupload\Providers\ModuleServiceProvider::class
-
+        \Webkul\Bulkupload\Providers\ModuleServiceProvider::class,
 
     ],
 ];

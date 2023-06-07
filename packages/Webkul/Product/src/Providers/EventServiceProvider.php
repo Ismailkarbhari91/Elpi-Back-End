@@ -13,16 +13,13 @@ class EventServiceProvider extends ServiceProvider
      */
     protected $listen = [
         'catalog.attribute.create.after' => [
-            'Webkul\Product\Listeners\ProductFlat@afterAttributeCreatedUpdated',
-            'Webkul\Product\Listeners\ProductFlat@afterAttributeCreatedUpdateds'
+            'Webkul\Product\Listeners\ProductFlat@afterAttributeCreatedUpdated'
         ],
         'catalog.attribute.update.after' => [
-            'Webkul\Product\Listeners\ProductFlat@afterAttributeCreatedUpdated',
-            'Webkul\Product\Listeners\ProductFlat@afterAttributeCreatedUpdateds'
+            'Webkul\Product\Listeners\ProductFlat@afterAttributeCreatedUpdated'
         ],
         'catalog.attribute.delete.before' => [
-            'Webkul\Product\Listeners\ProductFlat@afterAttributeDeleted',
-            'Webkul\Product\Listeners\ProductFlat@afterAttributeDeletedNew'
+            'Webkul\Product\Listeners\ProductFlat@afterAttributeDeleted'
         ],
         'catalog.product.create.after' => [
             'Webkul\Product\Listeners\ProductFlat@afterProductCreatedUpdated'
